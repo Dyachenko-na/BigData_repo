@@ -1,0 +1,5 @@
+Bart 15000
+Gomer 25000
+Liza 35000
+Meggi 10000
+Mardg 30000
